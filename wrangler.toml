@@ -1,0 +1,6 @@
+name = "workers-issue-repoduction"
+type = "javascript"
+account_id = "99963d10fa9a07c217d8592414d687a0"
+workers_dev = true
+route = ""
+zone_id = ""
